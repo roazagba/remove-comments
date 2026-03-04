@@ -142,7 +142,7 @@ const commentConfigs: Record<string, LanguageConfig> = {
 };
 
 export function activate(context: vscode.ExtensionContext) {
-    console.log('Extension "remove-comments" is now active');
+    console.log('Extension "remove-comments-rahy" is now active');
 
     // C1: remove all comments
     const removeAllCommand = vscode.commands.registerCommand('extension.removeAllComments', () => {

@@ -1,6 +1,6 @@
 {
-  "name": "remove-comments",
-  "displayName": "remove-comments",
+  "name": "remove-comments-rahy",
+  "displayName": "remove-comments-rahy",
   "description": "A powerful VS Code extension to remove comments from your code files",
   "version": "1.0.0",
   "publisher": "roazagba",
@@ -66,12 +66,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/roazagba/remove-comments.git"
+    "url": "https://github.com/roazagba/remove-comments-rahy.git"
   },
   "bugs": {
-    "url": "https://github.com/roazagba/remove-comments/issues"
+    "url": "https://github.com/roazagba/remove-comments-rahy/issues"
   },
-  "homepage": "https://github.com/roazagba/remove-comments/blob/main/README.md",
+  "homepage": "https://github.com/roazagba/remove-comments-rahy/blob/main/README.md",
   "license": "MIT",
   "scripts": {
     "vscode:prepublish": "npm run compile",

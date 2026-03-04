@@ -1,7 +1,7 @@
 # Remove Comments
 
-[![VS Code Marketplace](https://img.shields.io/vscode-marketplace/v/your-publisher-name.remove-comments.svg)](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.remove-comments)
-[![Downloads](https://img.shields.io/vscode-marketplace/d/your-publisher-name.remove-comments.svg)](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.remove-comments)
+[![VS Code Marketplace](https://img.shields.io/vscode-marketplace/v/your-publisher-name.remove-comments-rahy.svg)](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.remove-comments-rahy)
+[![Downloads](https://img.shields.io/vscode-marketplace/d/your-publisher-name.remove-comments-rahy.svg)](https://marketplace.visualstudio.com/items?itemName=your-publisher-name.remove-comments-rahy)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A powerful VS Code extension to remove comments from your code files. Supports **30+ programming languages** with three flexible comment removal options.
@@ -81,4 +81,4 @@ npm install -g vsce
 vsce package
 
 # Install the generated .vsix file
-code --install-extension remove-comments-0.0.1.vsix
+code --install-extension remove-comments-rahy-1.0.0.vsix
